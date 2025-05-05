@@ -1,4 +1,4 @@
-export { Experience } from './Experience'; 
+export { Experience } from '@/app/articles/experience';
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 
