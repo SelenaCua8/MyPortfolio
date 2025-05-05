@@ -1,4 +1,4 @@
-
+export { Experience } from './Experience'; 
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 
