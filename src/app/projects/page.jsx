@@ -4,7 +4,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 import paint from '@/images/photos/paint.png'
-import java from '@/images/photos/java-logo.png'
+import java from '@/images/photos/logoJava.png'
 import periodicTable from '@/images/photos/periodicTable.png'
 
 const projects = [
