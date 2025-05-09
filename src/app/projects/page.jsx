@@ -4,6 +4,7 @@ import { Card } from '@/components/Card'
 import { SimpleLayout } from '@/components/SimpleLayout'
 
 import paint from '@/images/photos/paint.png'
+import java from '@/images/photos/java-logo.png'
 import periodicTable from '@/images/photos/periodicTable.png'
 
 const projects = [
@@ -24,6 +25,13 @@ const projects = [
     logo: periodicTable,
 
   },
+  {
+    name: 'Exercises-Java',
+    description:
+      'A collection of Java exercises 🧠💻 created to practice and improve Java programming skills. This repository includes logic-based exercises, trivia games, and use of control structures like if-else, switch, and loops. Continuously updated with new challenges and solutions.',
+    link: { href: 'https://github.com/SelenaCua8/Exercises-Java/tree/main', label: 'GitHub' },
+    logo: java, // Asegurate de tener un logo llamado "java" o reemplazarlo por el correcto.
+  }
 
 ]
 
