@@ -66,33 +66,20 @@ export default function About() {
                     </h1>
                     <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                       <p>
-                      I am originally from Argentina and am currently residing in Dublin, 
-                      Ireland, where I am enhancing my English through daily practice.
-                       I am pursuing studies to become a Systems Analyst, while also
-                        independently learning Game Development, a field to which I am deeply 
-                        passionate.
-                      </p>
-                      <p>
-                      In Argentina, I had the opportunity to work as a Software Developer 
-                      Trainee for six months, which allowed me to become familiar with 
-                      languages such as C#, XML, WPF, SQL, as well as collaboration tools
-                      like JIRA and Slack. One of my favorite languages was SQL.
-                      </p>
-                      <p>
-                      Currently, I am learning Java through university, along with SQL. I decided to learn Java because it is considered one of the most complex languages, and it is said that mastering it makes learning other languages easier in the future. At the moment, I am working on Java exercises, progressing from the basics to creating a Blackjack game.
-                      </p>
-                      <p>
-                      In addition, I am learning C# and Unity, although for now, I am focusing more on Unity. I am currently developing a video game, which is a replica of Mario Bros. My goal is to complete up to level 4, and I am currently working on level 1. I am sharing my progress through videos on LinkedIn, and once the project is finished, the idea is to publish it so that others can try it out.
-          
-          
-          
-          
-                      </p>
-                      <p>
-                      Lastly, I am also learning JavaScript. Not in depth at the moment, but at least the basics, as my intention is to later learn Pixi.js, a 2D game development platform that I would like to master.
-          
-                      This is a bit about me and my experience. I am eager to re-enter the programming workforce and am fully committed to learning whatever is necessary and continuing to grow.
-                      </p>
+    I am originally from Argentina and currently living in Dublin, Ireland, where I’m improving my English through daily practice. I’m studying to become a Systems Analyst and, at the same time, continuing to strengthen my programming skills.
+  </p>
+  <p>
+    I had the opportunity to work as a Software Developer Trainee for six months in Argentina, where I gained experience with languages such as C#, XML, WPF, and SQL, as well as tools like JIRA and Slack.
+  </p>
+  <p>
+    I’m currently working with Java and SQL, which are the languages I use the most. I also have knowledge of HTML, CSS, and JavaScript, and I plan to start learning Node.js soon to continue growing in backend development.
+  </p>
+  <p>
+    In parallel, I’m exploring game development with Unity and C#. It’s a personal project that I really enjoy and that allows me to apply my skills in a creative way. I’m building a Mario Bros–style game and sharing my progress on LinkedIn.
+  </p>
+  <p>
+    While I enjoy experimenting with game development, my main focus is on backend development. I’m eager to keep learning and to rejoin the programming workforce with full commitment and motivation.
+  </p>
                     </div>
                   </div>
         <div className="lg:pl-20">
