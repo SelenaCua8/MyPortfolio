@@ -66,7 +66,7 @@ export default function About() {
                     </h1>
                     <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
                       <p>
-    I am originally from Argentina and currently living in Dublin, Ireland, where I’m improving my English through daily practice. I’m studying to become a Systems Analyst and, at the same time, continuing to strengthen my programming skills.
+    I am originally from Argentina.  I’m studying to become a Systems Analyst and, at the same time, continuing to strengthen my programming skills.
   </p>
   <p>
     I had the opportunity to work as a Software Developer Trainee for six months in Argentina, where I gained experience with languages such as C#, XML, WPF, and SQL, as well as tools like JIRA and Slack.
