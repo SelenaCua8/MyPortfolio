@@ -31,7 +31,14 @@ const projects = [
       'A collection of Java exercises 🧠💻 created to practice and improve Java programming skills. This repository includes logic-based exercises, trivia games, and use of control structures like if-else, switch, and loops. Continuously updated with new challenges and solutions.',
     link: { href: 'https://github.com/SelenaCua8/Exercises-Java/tree/main', label: 'GitHub' },
     logo: java, // Asegurate de tener un logo llamado "java" o reemplazarlo por el correcto.
-  }
+  },
+   {
+  name: 'Projects-Java',
+  description:
+    'A curated collection of Java projects ☕📁 ranging from beginner to advanced level. These include personal challenges, mini-games, logic-based exercises, and real-world applications developed both for practice and professional use. The repository evolves as I grow as a developer, continuously expanding with new concepts and improved solutions.',
+  link: { href: 'https://github.com/SelenaCua8/Projects-Java', label: 'GitHub' },
+  logo: java, // Make sure you have a "java" logo or replace this with the appropriate one.
+}
 
 ]
 
