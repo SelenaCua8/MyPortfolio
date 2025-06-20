@@ -222,9 +222,10 @@ export default async function Home() {
           <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
           Software developer and inveterate adventurer.
           </h1>
-          <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-          I am Selena, a software developer and systems analysis student. I am currently based in Dublin, where I am studying English while embracing the challenge of exploring new technologies, cultures, and ideas every day.
-          </p>
+         <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+  I’m Selena, a software developer and Systems Analysis student with a strong focus on backend development. I’m currently living in Europe and open to relocating for new professional opportunities. I’m passionate about exploring new technologies, adapting to different environments, and continuously growing both personally and professionally.
+</p>
+
           <div className="mt-6 flex gap-6">
            
             <SocialLink
