@@ -229,25 +229,19 @@ export default async function Home() {
        <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
   Software Developer & Systems Analyst Student.
 </h1>
+
 <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
- <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
   <p>
-    I am **Selena**, a 26-year-old **Systems Analysis student** from Argentina. I have always been driven by a "how does this work?" mindset, which naturally led me to the world of software development. I do not just write code; I enjoy architecting solutions that make a difference for real people.
+    I am a <strong>Systems Analysis student</strong> with a pragmatic approach to software. I do not just write code; I build tools that help businesses grow. My focus is on creating clean, maintainable <strong>Backend systems</strong> while staying versatile enough to handle the full stack.
   </p>
   <p>
-    Currently, my core focus is on Backend development, working heavily with **PHP (Laravel) and Java**, backed by solid **SQL** management. On the frontend, I build with **JavaScript and TypeScript**, using **Tailwind CSS** to ensure everything I build is as intuitive as it is functional. I am also a big fan of the **Linux** ecosystem and the efficiency of **GitBash** for my daily workflow.
+    I thrive in environments that challenge me to learn fast. Whether it is mastering a new framework or optimizing a database, I am always ready to adapt. My background as a freelancer has taught me to be proactive and to always keep the final user in mind.
   </p>
   <p>
-    As a **Freelance Developer**, I have had the chance to work directly with local businesses—from creating digital catalogs for distributors to building management platforms for sports facilities. These projects have taught me that software is about more than just syntax; it is about solving logistics and communication problems.
-  </p>
-  <p>
-    When I am not in front of a screen, you will probably find me **practicing sports**. I believe the discipline, grit, and teamwork I have gained through athletics are the same qualities that make me a better developer. Whether it is on the field or in a codebase, I am always aiming for the next goal.
-  </p>
-  <p>
-    I am currently looking for new opportunities where I can contribute my technical skills and my proactive "get-it-done" attitude to an impactful team.
+    I am looking for my next professional challenge where I can contribute my energy and my technical foundations to build impactful technology.
   </p>
 </div>
-</div>
+
 
           <div className="mt-6 flex gap-6">
            

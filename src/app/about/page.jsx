@@ -40,7 +40,7 @@ function MailIcon(props) {
 export const metadata = {
   title: 'About',
   description:
-    '¡HOLA! I’m Selena.',
+    '¡HOLA! I am Selena.',
     icons: {
       icon: '/favicon.ico', // Asegúrate de que la ruta sea correcta
     },
@@ -62,20 +62,20 @@ export default function About() {
         </div>
         <div className="lg:order-first lg:row-span-2">
   <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-    ¡HOLA! I’m Selena.
+    ¡HOLA! I am Selena.
   </h1>
  <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
   <p>
-    I’m **Selena**, a 26-year-old **Systems Analysis student** from Argentina. I’ve always been driven by a "how does this work?" mindset, which naturally led me to the world of software development. I don't just write code; I enjoy architecting solutions that make a difference for real people.
+    I’m **Selena**, a 26-year-old **Systems Analysis student** from Argentina. I have always been driven by a "how does this work?" mindset, which naturally led me to the world of software development. I do not just write code; I enjoy architecting solutions that make a difference for real people.
   </p>
   <p>
-    Currently, I specialize in **Backend development**, working heavily with **PHP (Laravel) and Java**, backed by solid **SQL** management. On the frontend, I build with **JavaScript and TypeScript**, using **Tailwind CSS** to ensure everything I build is as intuitive as it is functional. I’m also a big fan of the **Linux** ecosystem and the efficiency of **GitBash** for my daily workflow.
+    Currently, I specialize in **Backend development**, working heavily with **PHP (Laravel) and Java**, backed by solid **SQL** management. On the frontend, I build with **JavaScript and TypeScript**, using **Tailwind CSS** to ensure everything I build is as intuitive as it is functional. I am also a big fan of the **Linux** ecosystem and the efficiency of **GitBash** for my daily workflow.
   </p>
   <p>
-    As a **Freelance Developer**, I’ve had the chance to work directly with local businesses—from creating digital catalogs for distributors to building management platforms for sports facilities. These projects have taught me that software is about more than just syntax; it’s about solving logistics and communication problems.
+    As a **Freelance Developer**, I have had the chance to work directly with local businesses—from creating digital catalogs for distributors to building management platforms for sports facilities. These projects have taught me that software is about more than just syntax; it is about solving logistics and communication problems.
   </p>
   <p>
-    When I’m not in front of a screen, you’ll probably find me **practicing sports**. I believe the discipline, grit, and teamwork I've gained through athletics are the same qualities that make me a better developer. Whether it's on the field or in a codebase, I’m always aiming for the next goal.
+    When I am not in front of a screen, you will probably find me **practicing sports**. I believe the discipline, grit, and teamwork I've gained through athletics are the same qualities that make me a better developer. Whether it's on the field or in a codebase, I am always aiming for the next goal.
   </p>
   <p>
     I’m currently looking for new opportunities where I can contribute my technical skills and my proactive "get-it-done" attitude to an impactful team.
