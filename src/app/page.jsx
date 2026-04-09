@@ -262,9 +262,9 @@ export default async function Home() {
       <Container className="mt-24 md:mt-28">
   <div className="mx-auto grid max-w-xl grid-cols-1 gap-y-20 lg:max-w-none lg:grid-cols-2">
     
-    <div className="space-y-8"> {/* Quitado lg:pl-16 xl:pl-24 */}
+    {/*<div className="space-y-8"> {/* Quitado lg:pl-16 xl:pl-24 
       <Resume />
-    </div>
+    </div>*/  }
     
   </div>
 </Container>

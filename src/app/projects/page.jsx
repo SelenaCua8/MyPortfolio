@@ -8,22 +8,19 @@ import java from '@/images/photos/logoJava.png'
 import periodicTable from '@/images/photos/periodicTable.png'
 
 const projects = [
-  {
-    name: 'Paint.js',
+{
+    name: 'TusBebidas Catalogo',
     description:
-       'A project where I learned JavaScript and worked with the HTML5 canvas element. The project includes tools like pencil, rectangle, ellipse, and color selection',
-       
-    link: { href: 'https://paint-canva.netlify.app/', label: 'Paint.js' },
- 
-    logo: paint,
+      'A practical e-commerce solution for a beverage distributor. Built with PHP and Laravel, it features a digital catalog with a real-time WhatsApp ordering system to streamline sales and customer communication.',
+    link: { href: 'https://github.com/SelenaCua8/tusbebidas-catalogo', label: 'GitHub' },
+  
   },
   {
-    name: 'Periodic-Table.sql',
+    name: 'Costume Rental System',
     description:
-      'Periodic Table Project 🏆🛢️ This project, periodittable.sql, was created as part of the FreeCodeCamp Relational Database Certification. It involves practicing SQL queries, database design, and data manipulation related to a periodic table dataset. 📚⚽ The project helped me strengthen my understanding of relational databases and SQL commands.',
-    link: { href: 'https://github.com/SelenaCua8/periodic-table.sql', label: 'GitHub' },
-    logo: periodicTable,
-
+      'A comprehensive university project designed to manage a costume rental business. It handles inventory tracking, rental periods, and customer data, demonstrating core principles of relational database management and system logic.',
+    link: { href: 'https://github.com/SelenaCua8/alquiler-disfraces', label: 'GitHub' },
+    
   },
   {
     name: 'Exercises-Java',
@@ -32,13 +29,7 @@ const projects = [
     link: { href: 'https://github.com/SelenaCua8/Exercises-Java/tree/main', label: 'GitHub' },
     logo: java, // Asegurate de tener un logo llamado "java" o reemplazarlo por el correcto.
   },
-   {
-  name: 'Projects-Java',
-  description:
-    'A curated collection of Java projects ☕📁 ranging from beginner to advanced level. These include personal challenges, mini-games, logic-based exercises, and real-world applications developed both for practice and professional use. The repository evolves as I grow as a developer, continuously expanding with new concepts and improved solutions.',
-  link: { href: 'https://github.com/SelenaCua8/Projects-Java', label: 'GitHub' },
-  logo: java, // Make sure you have a "java" logo or replace this with the appropriate one.
-}
+ 
 
 ]
 
