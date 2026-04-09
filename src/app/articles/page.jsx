@@ -68,6 +68,19 @@ export const metadata = {
 export default function ExperiencePage() {
   const experiences = [
     {
+      role: 'Freelance Full Stack Developer',
+      company: 'Independent Software Solutions',
+      location: 'Remote',
+      date: 'Mar 2026 – Present',
+      responsibilities: [
+        'Designed and developed end-to-end web applications for local businesses to streamline sales and operations.',
+        'Built dynamic product catalogs with integrated real-time WhatsApp ordering systems.',
+        'Implemented administrative dashboards for inventory management and booking control.',
+        'Managed full software lifecycle: from requirements gathering to deployment and maintenance.',
+      ],
+      tools: ['Laravel', 'PHP', 'Tailwind CSS', 'JavaScript', 'MySQL'],
+    },
+    {
       role: 'Junior Software Developer - Full Time',
       company: 'TREND Ingeniería SRL',
       location: 'Campana',

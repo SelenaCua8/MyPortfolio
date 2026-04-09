@@ -143,6 +143,13 @@ function Role({ role }) {
 function Resume() {
   let resume = [
     {
+      company: 'Freelance / Self-employed',
+      title: 'FULL STACK DEVELOPER',
+      start: 'March 2026',
+      end: 'Present',
+      description: 'Developing custom web solutions for local businesses, focusing on automated sales systems via WhatsApp and management platforms for sports facilities.'
+    },
+    {
       company: 'Trend Ingenieria',
       title: 'JUNIOR SOFTWARE DEVELOPER',
       
@@ -219,11 +226,11 @@ export default async function Home() {
     <>
       <Container className="mt-9">
         <div className="max-w-2xl">
-          <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
-          Software developer and inveterate adventurer.
-          </h1>
-         <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-  I’m Selena, a software developer and Systems Analysis student with a strong focus on backend development. I’m currently living in Europe and open to relocating for new professional opportunities. I’m passionate about exploring new technologies, adapting to different environments, and continuously growing both personally and professionally.
+       <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
+  Software Developer & Systems Analyst Student.
+</h1>
+<p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
+  I’m **Selena**, a developer driven by logic and a passion for solving real-world problems through code. While I have experience with **PHP, Laravel, and Java**, I consider myself a **language-agnostic learner**—I’m always open to new technologies and opportunities that challenge me to grow. My focus is on building efficient systems and scalable architectures, regardless of the stack. I’m a proactive team player, ready to adapt and contribute to impactful projects while continuously evolving as a professional.
 </p>
 
           <div className="mt-6 flex gap-6">

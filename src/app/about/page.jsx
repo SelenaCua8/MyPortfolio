@@ -64,23 +64,23 @@ export default function About() {
   <h1 className="text-4xl font-bold tracking-tight text-zinc-800 sm:text-5xl dark:text-zinc-100">
     ¡HOLA! I’m Selena.
   </h1>
-  <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
-    <p>
-      I’m originally from Argentina and currently studying to become a Systems Analyst. Alongside my studies, I actively deepen my programming skills through hands-on practice and continuous learning.
-    </p>
-    <p>
-      I gained professional experience as a Software Developer Trainee, where I worked with technologies such as C#, XML, SQL, and tools like JIRA and Slack. This role introduced me to real-world development processes including testing, validation, and documentation.
-    </p>
-    <p>
-      Nowadays, I’m focusing on backend development using Java and SQL — the languages I work with most frequently. I also have experience with HTML, CSS, and JavaScript, and I’m planning to expand my backend knowledge by learning Node.js soon.
-    </p>
-    <p>
-      In my free time, I explore game development with Unity and C# as a creative side project. I’m currently building a Mario Bros–style game and sharing the journey on LinkedIn — but my core focus remains on backend systems and scalable architecture.
-    </p>
-    <p>
-      I’m passionate about clean code, backend logic, and solving real-world problems through software. I’m eager to grow professionally, contribute to impactful projects, and continue building a strong career in backend development.
-    </p>
-  </div>
+ <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
+  <p>
+    I’m **Selena**, a 26-year-old **Systems Analysis student** from Argentina. I’ve always been driven by a "how does this work?" mindset, which naturally led me to the world of software development. I don't just write code; I enjoy architecting solutions that make a difference for real people.
+  </p>
+  <p>
+    Currently, I specialize in **Backend development**, working heavily with **PHP (Laravel) and Java**, backed by solid **SQL** management. On the frontend, I build with **JavaScript and TypeScript**, using **Tailwind CSS** to ensure everything I build is as intuitive as it is functional. I’m also a big fan of the **Linux** ecosystem and the efficiency of **GitBash** for my daily workflow.
+  </p>
+  <p>
+    As a **Freelance Developer**, I’ve had the chance to work directly with local businesses—from creating digital catalogs for distributors to building management platforms for sports facilities. These projects have taught me that software is about more than just syntax; it’s about solving logistics and communication problems.
+  </p>
+  <p>
+    When I’m not in front of a screen, you’ll probably find me **practicing sports**. I believe the discipline, grit, and teamwork I've gained through athletics are the same qualities that make me a better developer. Whether it's on the field or in a codebase, I’m always aiming for the next goal.
+  </p>
+  <p>
+    I’m currently looking for new opportunities where I can contribute my technical skills and my proactive "get-it-done" attitude to an impactful team.
+  </p>
+</div>
 </div>
 
         <div className="lg:pl-20">
