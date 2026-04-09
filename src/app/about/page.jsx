@@ -75,10 +75,10 @@ export default function About() {
     As a **Freelance Developer**, I have had the chance to work directly with local businesses—from creating digital catalogs for distributors to building management platforms for sports facilities. These projects have taught me that software is about more than just syntax; it is about solving logistics and communication problems.
   </p>
   <p>
-    When I am not in front of a screen, you will probably find me **practicing sports**. I believe the discipline, grit, and teamwork I've gained through athletics are the same qualities that make me a better developer. Whether it's on the field or in a codebase, I am always aiming for the next goal.
+    When I am not in front of a screen, you will probably find me **practicing sports**. I believe the discipline, grit, and teamwork I have gained through athletics are the same qualities that make me a better developer. Whether it is on the field or in a codebase, I am always aiming for the next goal.
   </p>
   <p>
-    I’m currently looking for new opportunities where I can contribute my technical skills and my proactive "get-it-done" attitude to an impactful team.
+    I am currently looking for new opportunities where I can contribute my technical skills and my proactive "get-it-done" attitude to an impactful team.
   </p>
 </div>
 </div>
